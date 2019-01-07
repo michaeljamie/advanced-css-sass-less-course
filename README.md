@@ -2,14 +2,14 @@
 
 Three websites built with a focus on front-end development and design 💻
 
-###Natours
+### Natours
 
 An example site for an adventure tourism company highlighting modern SCSS techniques.
 
-###Trillo
+### Trillo
 
 An example travel booking website using Flexbox.
 
-###Nexter
+### Nexter
 
 A property management/real-estate website showcasing CSS Grid.
