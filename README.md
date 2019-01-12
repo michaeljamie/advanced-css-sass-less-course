@@ -8,6 +8,8 @@ A [Udemy Course](https://www.udemy.com/advanced-css-and-sass/ "Advanced CSS & SA
 
 An example site for an adventure tourism company highlighting modern CSS and SASS usage and techniques.
 
+The live site can be found [here](https://michaeljamie.github.io/advanced-css-sass-less-course/Natours/ "Natours - Project")!
+
 ![image](https://user-images.githubusercontent.com/26236137/50796975-848e0000-1290-11e9-8a90-7b61d80186a5.png)
 
 ### Trillo
