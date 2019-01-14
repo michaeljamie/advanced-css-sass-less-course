@@ -2,13 +2,11 @@
 
 Three websites built with a focus on front-end development and design 💻
 
-A [Udemy Course](https://www.udemy.com/advanced-css-and-sass/ "Advanced CSS & SASS") from Jonas Schmedtmann that I thoroughly enjoyed.
-
 ### Natours
 
-An example site for an adventure tourism company highlighting modern CSS and SASS usage and techniques.
+An example site for an adventure tourism company highlighting modern CSS, SASS, and BEM usage and techniques.
 
-The live site can be found [here](https://michaeljamie.github.io/advanced-css-sass-less-course/Natours/ "Natours - Project")!
+The live site can be found here: [Natours Adventures Project](https://michaeljamie.github.io/advanced-css-sass-less-course/Natours/ "Natours - Project").
 
 ![image](https://user-images.githubusercontent.com/26236137/50796975-848e0000-1290-11e9-8a90-7b61d80186a5.png)
 
@@ -23,3 +21,5 @@ An example travel booking website using Flexbox.
 A property management/real-estate website showcasing CSS Grid.
 
 ![image](https://user-images.githubusercontent.com/26236137/50797033-adae9080-1290-11e9-9324-e6973ce1a5bf.png)
+
+This was a great [Udemy Course](https://www.udemy.com/advanced-css-and-sass/ "Advanced CSS & SASS") from Jonas Schmedtmann that I thoroughly enjoyed.
