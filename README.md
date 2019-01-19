@@ -4,7 +4,7 @@ Three websites built with a focus on front-end development and design 💻
 
 ### Natours
 
-An example site for an adventure tourism company highlighting modern CSS, SASS, and BEM usage and techniques.
+An example site for an adventure tourism company highlighting modern CSS, SASS, and BEM usage and techniques.  Includes responsive images using density and resolution switching as well as graceful degredation for browser support. 
 
 The live site can be found here: [Natours Adventures Project](https://michaeljamie.github.io/advanced-css-sass-less-course/Natours/ "Natours - Project").
 
