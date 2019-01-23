@@ -12,7 +12,9 @@ The live site can be found here: [Natours Adventures Project](https://michaeljam
 
 ### Trillo
 
-An example travel booking website using Flexbox.
+An example travel booking app utilizing the newest features of CSS, SASS, BEM usage, and especially focused on Flexbox.
+
+The live site for this project can be found here: [Trillo Travel Project](https://michaeljamie.github.io/advanced-css-sass-less-course/Trillo/ "Trillo - Project").
 
 ![image](https://user-images.githubusercontent.com/26236137/50796996-97a0d000-1290-11e9-96a8-96391c3a171f.png)
 
@@ -21,5 +23,6 @@ An example travel booking website using Flexbox.
 A property management/real-estate website showcasing CSS Grid.
 
 ![image](https://user-images.githubusercontent.com/26236137/50797033-adae9080-1290-11e9-9324-e6973ce1a5bf.png)
+
 
 This was a great [Udemy Course](https://www.udemy.com/advanced-css-and-sass/ "Advanced CSS & SASS") from Jonas Schmedtmann that I thoroughly enjoyed.
