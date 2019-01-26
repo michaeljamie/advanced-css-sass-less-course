@@ -8,7 +8,7 @@ An example site for an adventure tourism company highlighting modern CSS, SASS, 
 
 The live site can be found here: [Natours Adventures Project](https://michaeljamie.github.io/advanced-css-sass-less-course/Natours/ "Natours - Project").
 
-![image](https://user-images.githubusercontent.com/26236137/50796975-848e0000-1290-11e9-8a90-7b61d80186a5.png)
+![image](https://user-images.githubusercontent.com/26236137/51792075-b1d01e80-2169-11e9-9189-cdcb0dbecf37.png "Natours - Project")
 
 ### Trillo
 
@@ -16,7 +16,7 @@ An example travel booking app utilizing the newest features of CSS, SASS, BEM us
 
 The live site for this project can be found here: [Trillo Travel Project](https://michaeljamie.github.io/advanced-css-sass-less-course/Trillo/ "Trillo - Project").
 
-![image](https://user-images.githubusercontent.com/26236137/50796996-97a0d000-1290-11e9-96a8-96391c3a171f.png)
+![image](https://user-images.githubusercontent.com/26236137/51792057-82b9ad00-2169-11e9-925d-059a73421590.png "Trillo - Project")
 
 ### Nexter
 
