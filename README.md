@@ -25,4 +25,4 @@ A property management/real-estate website showcasing CSS Grid.
 ![image](https://user-images.githubusercontent.com/26236137/50797033-adae9080-1290-11e9-9324-e6973ce1a5bf.png)
 
 
-This was a great [Udemy Course](https://www.udemy.com/advanced-css-and-sass/ "Advanced CSS & SASS") from Jonas Schmedtmann that I thoroughly enjoyed.
+This was a great [Udemy Course](https://www.udemy.com/advanced-css-and-sass/ "Advanced CSS & SASS") from Jonas Schmedtmann that I thoroughly enjoyed.  I look forward to implementing these tips and practices in my projects moving forward.
