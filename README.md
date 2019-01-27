@@ -24,6 +24,8 @@ The live site for this project can be found here: [Trillo Travel Project](https:
 
 ## Nexter
 
+![favicon](https://user-images.githubusercontent.com/26236137/51804305-5ca11500-221c-11e9-979e-b26f468b704f.png)
+
 A property management/real-estate website showcasing CSS Grid.
 
 ![image](https://user-images.githubusercontent.com/26236137/50797033-adae9080-1290-11e9-9324-e6973ce1a5bf.png)
