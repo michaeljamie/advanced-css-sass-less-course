@@ -2,7 +2,9 @@
 
 Three websites built with a focus on front-end development and design 💻
 
-### Natours
+## Natours
+
+![natours-logo-green](https://user-images.githubusercontent.com/26236137/51804092-860c7180-2219-11e9-9e5c-87cc4d221e00.png)
 
 An example site for an adventure tourism company highlighting modern CSS, SASS, and BEM usage and techniques.  Includes responsive images using density and resolution switching as well as graceful degredation for browser support. 
 
@@ -10,7 +12,9 @@ The live site can be found here: [Natours Adventures Project](https://michaeljam
 
 ![image](https://user-images.githubusercontent.com/26236137/51792075-b1d01e80-2169-11e9-9189-cdcb0dbecf37.png "Natours - Project")
 
-### Trillo
+## Trillo
+
+![logo](https://user-images.githubusercontent.com/26236137/51804070-5198b580-2219-11e9-8a71-657b061fabcd.png)
 
 An example travel booking app utilizing the newest features of CSS, SASS, BEM usage, and especially focused on Flexbox.
 
@@ -18,7 +22,7 @@ The live site for this project can be found here: [Trillo Travel Project](https:
 
 ![image](https://user-images.githubusercontent.com/26236137/51792057-82b9ad00-2169-11e9-925d-059a73421590.png "Trillo - Project")
 
-### Nexter
+## Nexter
 
 A property management/real-estate website showcasing CSS Grid.
 
