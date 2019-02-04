@@ -35,6 +35,7 @@ $bp-tiny: 25em;         // 400px
 *::before,
 *::after {
     box-sizing: inherit;
+    -webkit-overflow-scrolling: touch;
 }
 
 html {
