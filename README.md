@@ -28,6 +28,8 @@ The live site for this project can be found here: [Trillo Travel Project](https:
 
 A property management/real-estate website showcasing CSS Grid.
 
+The live site can be found here: [Nexter Real Estate Project](https://michaeljamie.github.io/advanced-css-sass-less-course/Nexter/ "Nexter - Project").
+
 ![image](https://user-images.githubusercontent.com/26236137/50797033-adae9080-1290-11e9-9324-e6973ce1a5bf.png)
 
 
