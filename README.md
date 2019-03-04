@@ -2,6 +2,11 @@
 
 Three websites built with a focus on front-end development and design 💻📚
 
+The live sites can be found here: 
+[Natours](https://michaeljamie.github.io/advanced-css-sass-less-course/Natours/ "Natours - Project"),
+[Trillo](https://michaeljamie.github.io/advanced-css-sass-less-course/Trillo/ "Trillo - Project"),
+[Nexter](https://michaeljamie.github.io/advanced-css-sass-less-course/Nexter/ "Nexter - Project")
+
 ## Natours
 
 ![natours-logo-green](https://user-images.githubusercontent.com/26236137/51804092-860c7180-2219-11e9-9e5c-87cc4d221e00.png)
