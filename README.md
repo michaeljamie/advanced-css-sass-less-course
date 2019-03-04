@@ -1,6 +1,6 @@
 # advanced-css-sass-less-course
 
-Three websites built with a focus on front-end development and design 💻
+Three websites built with a focus on front-end development and design 💻📚
 
 ## Natours
 
