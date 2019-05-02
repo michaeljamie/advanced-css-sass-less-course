@@ -1,3 +1,5 @@
+[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/reading-6th-grade-level.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-netflix.svg)](https://forthebadge.com)
+
 # advanced-css-sass-less-course
 
 Three websites built with a focus on front-end development and design 💻📚
